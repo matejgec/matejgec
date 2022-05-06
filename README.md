@@ -16,4 +16,8 @@ label.pack(anchor='center')
 time()
 
 mainloop()
+.
+.
+.
+THE RAINMETER FOR CLOCK
 [ds_digital.zip](https://github.com/matejgec/matejgec/files/8643306/ds_digital.zip)
